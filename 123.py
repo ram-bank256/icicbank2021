@@ -50,7 +50,7 @@ class bank(user):
     def view_balance(self):
         self.show_details()
         print('Avaliable Balance in your account :',self.balance)
-        print('Thanks for visiting the branch')
+        #print('Thanks for visiting the branch')
         
         
         
